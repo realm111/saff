@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "tpahere",
+  "version": "${version}",
+  "name": "TPAHere Auto",
+  "description": "Automatycznie wysyla /tpahere do kazdego gracza, ktory pisze na czacie. Otworz GUI klawiszem K.",
+  "authors": ["TpaHere"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["pl.tpahere.auto.TpaHereClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

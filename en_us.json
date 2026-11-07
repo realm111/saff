@@ -1,0 +1,15 @@
+{
+  "key.category.tpahere.main": "TPAHere Auto",
+  "key.tpahere.open_gui": "Open settings",
+  "key.tpahere.toggle": "Toggle on/off",
+  "tpahere.title": "TPAHere Auto",
+  "tpahere.on": "ENABLED",
+  "tpahere.off": "DISABLED",
+  "tpahere.status_on": "Sending /tpahere to chatters",
+  "tpahere.status_off": "Idle",
+  "tpahere.delay": "Delay between requests: %s s",
+  "tpahere.cooldown": "Same player again after: %s min",
+  "tpahere.close": "Close",
+  "tpahere.chat_on": "TPAHere Auto: ENABLED",
+  "tpahere.chat_off": "TPAHere Auto: DISABLED"
+}

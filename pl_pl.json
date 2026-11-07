@@ -1,0 +1,15 @@
+{
+  "key.category.tpahere.main": "TPAHere Auto",
+  "key.tpahere.open_gui": "Otworz ustawienia",
+  "key.tpahere.toggle": "Wlacz/wylacz",
+  "tpahere.title": "TPAHere Auto",
+  "tpahere.on": "WŁĄCZONY",
+  "tpahere.off": "WYŁĄCZONY",
+  "tpahere.status_on": "Wysyłam /tpahere do piszących",
+  "tpahere.status_off": "Bezczynny",
+  "tpahere.delay": "Odstęp między prośbami: %s s",
+  "tpahere.cooldown": "Ten sam gracz ponownie po: %s min",
+  "tpahere.close": "Zamknij",
+  "tpahere.chat_on": "TPAHere Auto: WŁĄCZONY",
+  "tpahere.chat_off": "TPAHere Auto: WYŁĄCZONY"
+}
